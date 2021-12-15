@@ -1,5 +1,5 @@
 language: generic
-#Docker/AWS/Accesskey/gitbranch details
+#Docker/AWS/IAM Accesskey/gitbranch details
 
 services:
   - docker
